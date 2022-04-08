@@ -1,4 +1,4 @@
-import { HomeIcon, SearchIcon, LibraryIcon, PlusCircleIcon, HeartIcon, RssIcon, PlusSmIcon } from "@heroicons/react/outline";
+import { HomeIcon, SearchIcon, LibraryIcon, PlusCircleIcon, HeartIcon, RssIcon } from "@heroicons/react/outline";
 
 export default function Sidebar() {
   return (
